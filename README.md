@@ -1,4 +1,5 @@
-#Use this project locally:
+# Use this project locally:
+---
 
 1. Give the executable permissions to all the scripts present in the `code` folder.
 
@@ -7,7 +8,9 @@
 
 2. Once the permissions are provided, play the game by executing *script1*
 
+`cd code`
 `./script1.sh`
+
 
 ---
 **Using docker:**
@@ -19,3 +22,4 @@
 2. Run the container using this command
    
 - `docker run -it nitishkumar06/game`
+
